@@ -1,8 +1,20 @@
-#include "Zombie.h"
+
 #include <iostream>
 #include <String.h>
-
-using namespace std;
+#include "Zombie.h"
  
+Zombi() {
+	Zombi.Announce();
+};
+void Destruct() {
+	~Zombi();
+		
+};
+void Announce() {
+	std:cout << ": Braiiiiinzzzzz";
+};
 
+
+
+ 
 
