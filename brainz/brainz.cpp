@@ -3,7 +3,6 @@
 
 #include <iostream>
 #include <String.h>
-#include "randomChump.cpp" 
 using namespace std;
 
 int main()
